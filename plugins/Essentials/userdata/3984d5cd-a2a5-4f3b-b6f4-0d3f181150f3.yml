@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663787320601
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663787515609
+  login: 1663786712819
+money: '6.0'
+last-account-name: lilshark
+lastlocation:
+  world: c5735b15-1ed0-44f9-a12f-ecc5109be8a3
+  world-name: world
+  x: -66.44754783016042
+  y: 89.0
+  z: -16.916869746383604
+  yaw: 117.70130920410156
+  pitch: 30.749988555908203
+homes:
+  home:
+    world: c5735b15-1ed0-44f9-a12f-ecc5109be8a3
+    world-name: world
+    x: -62.60205718352274
+    y: 89.0
+    z: -14.873878777917984
+    yaw: 118.75128173828125
+    pitch: 33.5999870300293
+logoutlocation:
+  world: c5735b15-1ed0-44f9-a12f-ecc5109be8a3
+  world-name: world
+  x: -118.81422760767816
+  y: 100.8681355206574
+  z: -67.08636608031917
+  yaw: 125.35127258300781
+  pitch: 34.34999084472656
